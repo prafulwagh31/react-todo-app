@@ -4,8 +4,8 @@
 
 # Description:- It is simple todo application in react
 
-# How to Clone:-
-git clone https://github.com/prafulwagh31/react-todo-app.git
-cd .\react-todo-app\
-npm install
-npm run dev
+How to Clone:-
+1. git clone https://github.com/prafulwagh31/react-todo-app.git
+2. cd .\react-todo-app\
+3. npm install
+4. npm run dev
