@@ -1,0 +1,13 @@
+.bg-color{
+    --bs-bg-opacity: 1;
+    background-color: #6e7073 !important;
+}
+.add-task{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn-add{
+    margin-left: 10px;
+}
